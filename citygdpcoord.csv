@@ -1,0 +1,51 @@
+city,state,gdp14,latitude,longitude,citycode
+New York,NY,"1,558,518",40.7127,-74.0059,newyork
+Los Angeles,CA,"866,745",34.05,-118.25,losangeles
+Chicago,IL,"610,552",41.8369,-87.6847,chicago
+Houston,TX,"525,397",29.7604,-95.3698,houston
+Dallas,TX,"504,358",32.7767,-96.797,dallas
+Washington,DC,"471,584",38.9047,-77.0164,washington
+San Francisco,CA,"411,969",37.7833,-122.4167,sanfrancisco
+Philadelphia,PA,"391,118",39.95,-75.1667,philadelphia
+Boston,MA,"382,459",42.3601,-71.0589,boston
+Atlanta,GA,"324,881",33.755,-84.39,atlanta
+Seattle,WA,"300,827",47.6097,-122.3331,seattle
+Miami,FL,"299,161",25.7753,-80.2089,miami
+Detroit,MI,"236,500",42.3314,-83.0458,detroit
+Minneapolis,MN,"235,733",44.9778,-93.265,minneapolis
+Phoenix,AZ,"215,214",33.45,-112.0667,phoenix
+San Jose,CA,"213,819",37.3382,-121.8863,sanjose
+San Diego,CA,"206,817",32.715,-117.1625,sandiego
+Denver,CO,"187,111",39.7392,-104.9903,denver
+Baltimore,MD,"173,516",39.2833,-76.6167,baltimore
+Portland,OR,"159,328",45.52,-122.6819,portland
+St. Louis,MO,"149,951",38.6272,-90.1978,st.louis
+Charlotte,NC,"143,628",35.2269,-80.8433,charlotte
+Pittsburgh,PA,"135,662",40.4397,-79.9764,pittsburgh
+Riverside,CA,"133,983",33.9481,-117.3961,riverside
+Tampa,FL,"128,201",27.9681,-82.4764,tampa
+Indianapolis,IN,"125,864",39.791,-86.148,indianapolis
+Cleveland,OH,"124,609",41.4822,-81.6697,cleveland
+Kansas City,MO,"121,638",39.0997,-94.5783,kansascity
+Cincinnati,OH,"121,407",39.1,-84.5167,cincinnati
+Columbus,OH,"117,824",39.9833,-82.9833,columbus
+Orlando,FL,"115,927",28.4158,-81.2989,orlando
+Austin,TX,"115,262",30.25,-97.75,austin
+Sacramento,CA,"112,703",38.5556,-121.4689,sacramento
+Nashville,TN,"106,695",36.1667,-86.7833,nashville
+San Antonio,TX,"104,787",29.4167,-98.5,sanantonio
+Milwaukee,WI,"97,307",43.05,-87.95,milwaukee
+Bridgeport,CT,"97,225",41.1864,-73.1956,bridgeport
+Las Vegas,NV,"94,521",36.1215,-115.1739,lasvegas
+Virginia Beach,VA,"90,772",36.8506,-75.9779,virginiabeach
+Hartford,CT,"85,558",41.7627,-72.6743,hartford
+New Orleans,LA,"80,278",29.95,-90.0667,neworleans
+Providence,RI,"75,940",41.8236,-71.4222,providence
+Salt Lake City,UT,"75,672",40.75,-111.8833,saltlakecity
+Oklahoma City,OK,"72,629",35.4822,-97.535,oklahomacity
+Raleigh,NC,"71,574",35.7806,-78.6389,raleigh
+Richmond,VA,"70,491",37.5333,-77.4667,richmond
+Memphis,TN,"69,882",35.1174,-89.9711,memphis
+Louisville,KY,"67,329",38.25,-85.7667,louisville
+Jacksonville,FL,"65,085",30.3369,-81.6614,jacksonville
+Birmingham,AL,"62,187",33.525,-86.813,birmingham
